@@ -7,16 +7,16 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: 瀑布森林
-description: 主宰能主宰的<br>改变不能接受的,适应无法改变的
+name: 卓德定
+description: 一个经历了无数次清零的博客
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: https://www.gaos.world
+url: 
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /
+baseurl: /levonegao.github.io
 
 #
 # 下面的设定都是可选的
@@ -53,7 +53,7 @@ footer-links:
   email: levonegao@qq.com 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: jordongao #https://github.com/<>
+  github: levonegao #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -64,7 +64,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2020 来自瀑布森林
+footer-text: Copyright (c) 2020 来自卓德定
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
@@ -74,11 +74,11 @@ footer-text: Copyright (c) 2020 来自瀑布森林
 disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: ec76ad004455f1973b95
-  clientSecret: ae7267c0de042d95a4ff0d6b055c7559ca69cfee
-  repo: jordongao.github.io
-  owner: jordongao
+#gitalk:
+  #clientID: 
+  #clientSecret: 
+  #repo: 
+  #owner: jordongao
 
 # 输入Google Analytics web tracking code
 google_analytics:
